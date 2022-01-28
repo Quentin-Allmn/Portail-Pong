@@ -3,27 +3,21 @@ body{
   font-size: 12px;
   background-image: url(https://cdn.discordapp.com/attachments/918428347535601665/935167698030190592/A7B583C9-D1FB-4A39-B206-AA37DDD34586.jpg);
   background-color: #000000;
-<<<<<<< HEAD
-  color: #ffffff;}
-=======
-  color: #ffffff;
-}
->>>>>>> c81d8c771b73b163bf87148de83eefccfdb270cc
-
+  color: #ffffff}
 a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     flex-direction: column;
-    margin: 15px;
+    margin: 30px;
     text-transform: uppercase;
     font-size: 20px;
     color: #FFFFFF;
   text-decoration: none;
 }
 img {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   width: 200px;
 }
 
