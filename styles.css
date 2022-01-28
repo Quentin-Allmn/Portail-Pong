@@ -1,10 +1,13 @@
 body{
   font-family: Arial, sans-serif;
   font-size: 12px;
-  background-image: url(https://cdn.discordapp.com/attachments/918428347535601665/936750722119237652/A7B583C9-D1FB-4A39-B206-AA37DDD34586.png);
+  background-image: url(https://cdn.discordapp.com/attachments/918428347535601665/936753994724958258/portail-des-dragons-fond-d-ecran-2560x1080_14.jpg);
   background-color: #000000;
-  color: #ffffff}
+  color: #4eff80;
+}
+
 a {
+
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -12,8 +15,8 @@ a {
     flex-direction: column;
     margin: 30px;
     text-transform: uppercase;
-    font-size: 20px;
-    color: #FFFFFF;
+    font-size: 22px;
+    color: #ff0000;
   text-decoration: none;
 }
 img {
